@@ -15,7 +15,7 @@ const Reservation = () => {
 
 
   const data ={
-    firstName, lastName, date, time, email, phone, 
+    firstName, lastName, date, time, email, phone
   }
 
   const handleReservation = async (e) => {
